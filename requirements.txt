@@ -19,4 +19,6 @@ numpy
 scikit-learn
 apache-airflow
 streamlit
+seaborn
+matplotlib
 -e .
