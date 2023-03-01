@@ -27,6 +27,9 @@ region: The beneficiary's residential area in the US, northeast, southeast, sout
 
 charges: Individual medical costs billed by health insurance.
 
+This project is deployed on Render
+
+Here you can check out the link  https://insurance-price.onrender.com
 
 ## Screenshot
 
